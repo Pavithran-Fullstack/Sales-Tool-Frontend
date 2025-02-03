@@ -43,4 +43,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/b
 ## npm install dependencies
 
 npm install next react react-dom socket.io-client twilio-client tailwindcss postcss autoprefixer
+
 npm install --save-dev typescript @types/react @types/node @types/socket.io-client
